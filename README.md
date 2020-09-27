@@ -47,6 +47,16 @@ To try our code, you can use: SM-netFusion_demo.m
 Set the boolean variable displayResults=1 and check our results. You can set the number of samples (i.e., graphs) from class 1 to 30, from class 2 to 30, and the size of each graph to 60 (nodes).
 
 
+# YouTube videos on SM-netFusion
+
+To install and run SM-netFusion, check the following YouTube video:
+
+https://www.youtube.com/watch?v=-dDn8CT4mH0
+
+To learn about how SM-netFusion works, check the following YouTube video:
+
+https://www.youtube.com/watch?v=eWz65SyR-eM
+
 # Acknowledgement
 
 We used the following codes:
